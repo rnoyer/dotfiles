@@ -59,3 +59,7 @@
 
 [init]
   defaultBranch = master
+
+[user]
+  email = romain.noyer@gmail.com
+  name = romain noyer
